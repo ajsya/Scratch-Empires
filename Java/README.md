@@ -1,1 +1,0 @@
-World downloads for Java Edition will be found here at the end of each "season".
