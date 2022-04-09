@@ -1,1 +1,1 @@
-Files For Bedrock MCWORLD files :) (NOTE: .zip files are in a seperate area :)  )
+World downloads for Bedrock will be found here at the end of each "season".

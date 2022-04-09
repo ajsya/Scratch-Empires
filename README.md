@@ -1,2 +1,2 @@
 # Scratch-Empires
-Contains the webpage for Scratch Empires and World downloads
+Contains the webpage for the Empires of Scratch and world downloads.
