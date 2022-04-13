@@ -1,0 +1,819 @@
+[22:38:24] [User Authenticator #12/INFO]: UUID of player Letzdotheodyssey is 88913709-1c34-4961-b08b-d5493e854326
+[22:38:24] [Server thread/INFO]: Letzdotheodyssey joined the game
+[22:38:24] [Server thread/INFO]: Letzdotheodyssey[/**.**.**.**:51707] logged in with entity id 120210 at ([world]-18.5, 72.0, 62.5)
+[22:38:29] [Async Chat Thread - #27/INFO]: <scratchtynker> hi!
+[22:38:30] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> sup
+[22:38:31] [Async Chat Thread - #27/INFO]: <ShadowInTime> hi
+[22:38:32] [Async Chat Thread - #27/INFO]: <scratchtynker> ...
+[22:38:39] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> what
+[22:38:42] [Async Chat Thread - #27/INFO]: <scratchtynker> i just realised i dont know either of you
+[22:38:46] [Async Chat Thread - #27/INFO]: <scratchtynker> im scratch
+[22:38:57] [Async Chat Thread - #27/INFO]: <ShadowInTime> I am a shadow in time
+[22:39:03] [Async Chat Thread - #27/INFO]: <scratchtynker> and yet i have many nicknames...
+[22:39:12] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> i do the odyssey
+[22:39:17] [Server thread/INFO]: Letzdotheodyssey has made the advancement [Sweet Dreams]
+[22:39:24] [Async Chat Thread - #27/INFO]: <scratchtynker> lol
+[22:39:27] [Async Chat Thread - #27/INFO]: <scratchtynker> are you new?
+[22:39:30] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> yes
+[22:39:39] [Async Chat Thread - #27/INFO]: <ShadowInTime> I've been on several times
+[22:39:49] [User Authenticator #13/INFO]: UUID of player BeatIes is 50ed5f16-a57c-41c6-8558-2e7c5fd9e805
+[22:39:49] [Server thread/INFO]: BeatIes joined the game
+[22:39:49] [Server thread/INFO]: BeatIes[/**.**.**.**:63262] logged in with entity id 121998 at ([world]38.8927549255794, 77.0, -86.39418675860279)
+[22:39:53] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> hi beatles
+[22:39:57] [Async Chat Thread - #27/INFO]: <BeatIes> yo
+[22:40:00] [Async Chat Thread - #27/INFO]: <scratchtynker> u know BeatIes?
+[22:40:04] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> yeah
+[22:40:06] [Async Chat Thread - #27/INFO]: <BeatIes> unfortunately
+[22:40:07] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> i know him irl
+[22:40:21] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> beatles im in doofania
+[22:40:24] [Async Chat Thread - #27/INFO]: <BeatIes> k
+[22:40:27] [Async Chat Thread - #27/INFO]: <scratchtynker> ...what do you mean unfortunatley?
+[22:40:42] [Async Chat Thread - #27/INFO]: <BeatIes> nothing...
+[22:41:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[22:41:28] [Async Chat Thread - #27/INFO]: <BeatIes> oddyssey wya
+[22:41:54] [Async Chat Thread - #27/INFO]: <BeatIes> k
+[22:42:08] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> armor?
+[22:42:11] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> pick?
+[22:42:12] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> pls?
+[22:42:16] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> shovel?
+[22:42:20] [Async Chat Thread - #27/INFO]: <BeatIes> bro u gotta do something for me
+[22:42:23] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> okie
+[22:42:27] [Async Chat Thread - #27/INFO]: <scratchtynker> i have a full set of iron armor im not usin
+[22:42:40] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> go
+[22:42:51] [Async Chat Thread - #27/INFO]: <scratchtynker> go where?
+[22:43:00] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> to your moms house
+[22:43:07] [Async Chat Thread - #27/INFO]: <scratchtynker> ...
+[22:43:09] [Server thread/INFO]: BeatIes issued server command: /tell Letzdotheodyssey ok so
+[22:43:12] [Async Chat Thread - #27/INFO]: <Letzdotheodyssey> hehehehaw
+[22:43:20] [Async Chat Thread - #27/INFO]: <scratchtynker> im in my moms house
+[22:43:31] [Server thread/INFO]: BeatIes issued server command: /tell Letzdotheodyssey if u can get me 3 ancient debris, i will give u full diamond
+[22:43:41] [Server thread/INFO]: Letzdotheodyssey issued server command: /w BeatIes what enchants
+[22:43:56] [Server thread/INFO]: BeatIes issued server command: /tell Letzdotheodyssey idk whatever i can get
+[22:44:05] [Server thread/INFO]: Letzdotheodyssey issued server command: /w BeatIes can i have a diamond pick
+[22:44:18] [Server thread/INFO]: BeatIes issued server command: /tell Letzdotheodyssey k dont break it like a dumbass
+[22:44:42] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> omg its axolotols!
+[22:44:47] [Async Chat Thread - #28/INFO]: <scratchtynker> how many?
+[22:44:50] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> just like the kid that axolotol questions!!!
+[22:44:53] [Async Chat Thread - #28/INFO]: <BeatIes> i can give u one
+[22:45:01] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> ok
+[22:45:07] [Async Chat Thread - #28/INFO]: <scratchtynker> 7,823
+[22:45:08] [Async Chat Thread - #28/INFO]: <BeatIes> its baby one
+[22:45:14] [Async Chat Thread - #28/INFO]: <BeatIes> wow
+[22:45:14] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> yellow ew
+[22:45:17] [Async Chat Thread - #28/INFO]: <scratchtynker> thats how many axlottls i have on sc-2
+[22:45:19] [Async Chat Thread - #28/INFO]: <scratchtynker> no 3
+[22:45:24] [Server thread/INFO]: Letzdotheodyssey has made the advancement [The Cutest Predator]
+[22:45:27] [Async Chat Thread - #28/INFO]: <BeatIes> gime that bucket
+[22:45:30] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> i dont want yello
+[22:45:43] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> blue pls
+[22:45:45] [Async Chat Thread - #28/INFO]: <BeatIes> where is he
+[22:46:09] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> can i have i axolotol questions
+[22:46:20] [Async Chat Thread - #28/INFO]: <BeatIes> uh
+[22:46:27] [Network Listener - #0/INFO]: [Geyser-Spigot] /**.**.**.**:63992 tried to connect!
+[22:46:29] [Network Listener - #3/INFO]: [Geyser-Spigot] Player connected with username Phantom3729
+[22:46:29] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Phantom3729 (logged in as: Phantom3729) has connected to the Java server
+[22:46:30] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> gottem
+[22:46:30] [Geyser Spigot connection thread-4-4/INFO]: UUID of player .Phantom3729 is 00000000-0000-0000-0009-01ff235362b3
+[22:46:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Phantom3729 joined (UUID: 00000000-0000-0000-0009-01ff235362b3)
+[22:46:30] [Server thread/INFO]: .Phantom3729 joined the game
+[22:46:30] [Server thread/INFO]: .Phantom3729[/**.**.**.**:0] logged in with entity id 126373 at ([world]-5.5, 80.0, 53.5)
+[22:46:37] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> ow
+[22:46:43] [Async Chat Thread - #28/INFO]: <scratchtynker> so many ppl with . before their name!
+[22:46:44] [Async Chat Thread - #28/INFO]: <BeatIes> i gave u diamond tools
+[22:46:47] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> yes
+[22:46:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[22:46:50] [Async Chat Thread - #28/INFO]: <BeatIes> give me him
+[22:46:55] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> can i have a pick
+[22:46:56] [Async Chat Thread - #28/INFO]: <BeatIes> i was going to give u him
+[22:46:57] [Server thread/INFO]: .Phantom3729 has made the advancement [We Need to Go Deeper]
+[22:47:08] [Async Chat Thread - #28/INFO]: <scratchtynker> gtg
+[22:47:08] [Async Chat Thread - #28/INFO]: <ShadowInTime> imagine not just making your own tools
+[22:47:09] [Async Chat Thread - #28/INFO]: <BeatIes> ok lemme get the tiny on back in first
+[22:47:10] [Server thread/INFO]: scratchtynker lost connection: Disconnected
+[22:47:10] [Server thread/INFO]: scratchtynker left the game
+[22:47:13] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> i need a pick bro
+[22:47:24] [Server thread/INFO]: Letzdotheodyssey has made the advancement [Isn't It Iron Pick]
+[22:47:39] [Network Listener - #2/INFO]: [Geyser-Spigot] /**.**.**.**:61419 tried to connect!
+[22:47:40] [Network Listener - #0/INFO]: [Geyser-Spigot] Player connected with username DragonGirl39252
+[22:47:40] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] DragonGirl39252 (logged in as: DragonGirl39252) has connected to the Java server
+[22:47:41] [Geyser Spigot connection thread-4-1/INFO]: UUID of player .DragonGirl39252 is 00000000-0000-0000-0009-01f565b3a6c4
+[22:47:41] [Server thread/INFO]: [floodgate] Floodgate player logged in as .DragonGirl39252 joined (UUID: 00000000-0000-0000-0009-01f565b3a6c4)
+[22:47:41] [Server thread/INFO]: .DragonGirl39252 joined the game
+[22:47:41] [Server thread/INFO]: .DragonGirl39252[/**.**.**.**:0] logged in with entity id 127327 at ([world]251.36517, 76.0, 220.0656)
+[22:47:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5104ms or 102 ticks behind
+[22:48:04] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> Hi!
+[22:48:05] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> imma go mine some diamonds
+[22:48:10] [Async Chat Thread - #28/INFO]: <BeatIes> ok
+[22:48:13] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> who are you-
+[22:48:17] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> joe
+[22:48:28] [Server thread/INFO]: ShadowInTime has made the advancement [Cover Me with Diamonds]
+[22:48:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16177ms or 323 ticks behind
+[22:48:35] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> Nice job
+[22:48:35] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> nice nice
+[22:48:55] [Server thread/INFO]: Letzdotheodyssey has made the advancement [Stone Age]
+[22:49:04] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> are you in a nation?
+[22:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13142ms or 262 ticks behind
+[22:49:13] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> yeah
+[22:49:20] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> which one?
+[22:49:24] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> doofania
+[22:49:27] [Network Listener - #3/INFO]: [Geyser-Spigot] /**.**.**.**:55472 tried to connect!
+[22:49:28] [Network Listener - #1/INFO]: [Geyser-Spigot] Player connected with username MatteCarton7716
+[22:49:28] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] MatteCarton7716 (logged in as: MatteCarton7716) has connected to the Java server
+[22:49:29] [Geyser Spigot connection thread-4-2/INFO]: UUID of player .MatteCarton7716 is 00000000-0000-0000-0009-01fd7bff619b
+[22:49:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .MatteCarton7716 joined (UUID: 00000000-0000-0000-0009-01fd7bff619b)
+[22:49:29] [Server thread/INFO]: .MatteCarton7716 joined the game
+[22:49:29] [Server thread/INFO]: .MatteCarton7716[/**.**.**.**:0] logged in with entity id 128427 at ([world]194.06071, 65.0, 251.73378)
+[22:49:41] [Async Chat Thread - #28/INFO]: <BeatIes> idk if weedle will allow u to be in doofania
+[22:49:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16036ms or 320 ticks behind
+[22:50:05] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> why wouldnt he
+[22:50:09] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> im an experienced general
+[22:50:12] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> haha
+[22:50:16] [Async Chat Thread - #28/INFO]: <ShadowInTime> that's a nice joke
+[22:50:17] [Async Chat Thread - #28/INFO]: <BeatIes> you took over his country
+[22:50:20] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> afk
+[22:50:24] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> exactly
+[22:50:32] [Async Chat Thread - #28/INFO]: <BeatIes> only because he quit
+[22:50:37] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> debatable
+[22:50:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9827ms or 196 ticks behind
+[22:50:46] [Network Listener - #3/INFO]: [Geyser-Spigot] /**.**.**.**:50656 tried to connect!
+[22:50:48] [Network Listener - #2/INFO]: [Geyser-Spigot] Player connected with username saitama1pann
+[22:50:48] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] saitama1pann (logged in as: saitama1pann) has connected to the Java server
+[22:50:48] [Geyser Spigot connection thread-4-3/INFO]: UUID of player .saitama1pann is 00000000-0000-0000-0009-01fe0db8fa77
+[22:50:48] [Server thread/INFO]: [floodgate] Floodgate player logged in as .saitama1pann joined (UUID: 00000000-0000-0000-0009-01fe0db8fa77)
+[22:50:48] [Server thread/INFO]: .saitama1pann joined the game
+[22:50:48] [Server thread/INFO]: .saitama1pann[/**.**.**.**:0] logged in with entity id 129531 at ([world]-14.5, 75.0, 48.5)
+[22:50:59] [Server thread/INFO]: Letzdotheodyssey has made the advancement [Diamonds!]
+[22:51:01] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> yay
+[22:51:05] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> ?
+[22:51:07] [Async Chat Thread - #28/INFO]: <.MatteCarton7716> so many new people
+[22:51:15] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> thats wierd
+[22:51:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11975ms or 239 ticks behind
+[22:51:19] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> odessey
+[22:51:25] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> hm?
+[22:51:27] [Server thread/INFO]: .Phantom3729 has made the advancement [A Seedy Place]
+[22:51:31] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> howd you get diamonds so quickly
+[22:51:35] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> luck
+[22:51:37] [Async Chat Thread - #28/INFO]: <BeatIes> chest
+[22:51:44] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> i can tell
+[22:51:50] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> one time
+[22:51:53] [Async Chat Thread - #28/INFO]: <.saitama1pann> hello
+[22:51:53] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> he hasnt got any achievements with iron yet
+[22:52:00] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> i got an iron pick
+[22:52:00] [Async Chat Thread - #28/INFO]: <BeatIes> ^^^
+[22:52:01] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> without iron, he cant get diamonds
+[22:52:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13972ms or 279 ticks behind
+[22:52:04] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> did you see?
+[22:52:15] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> i got "isnt it iron pick"
+[22:52:22] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> did you, though
+[22:52:27] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> yeah scroll up
+[22:52:28] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> you got stone after iron?
+[22:52:32] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> yeah
+[22:52:33] [Async Chat Thread - #28/INFO]: <BeatIes> where did u get the iron picl
+[22:52:37] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> from beatles
+[22:52:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18255ms or 365 ticks behind
+[22:52:52] [Async Chat Thread - #28/INFO]: <BeatIes> i didnt say u could take my iron
+[22:53:00] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> its an iron pick
+[22:53:03] [Async Chat Thread - #28/INFO]: <ShadowInTime> he asked for items
+[22:53:05] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> beatles you should fine him
+[22:53:08] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> if you want
+[22:53:14] [Async Chat Thread - #28/INFO]: <BeatIes> he is too poor
+[22:53:19] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> nah
+[22:53:22] [Async Chat Thread - #28/INFO]: <ShadowInTime> i
+[22:53:25] [Async Chat Thread - #28/INFO]: <ShadowInTime> 'm poor
+[22:53:25] [Async Chat Thread - #28/INFO]: <BeatIes> i can make him work for me
+[22:53:29] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> do you think claimed is poor?
+[22:53:39] [Async Chat Thread - #28/INFO]: <BeatIes> atleast claimed puts in effort
+[22:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18276ms or 365 ticks behind
+[22:53:43] [Async Chat Thread - #28/INFO]: <ShadowInTime> i worked hard and now have full diamond armor
+[22:53:51] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> i got them from fines
+[22:53:53] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> and stuff
+[22:53:54] [Server thread/INFO]: Letzdotheodyssey drowned
+[22:53:59] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> bullcrap
+[22:54:09] [Async Chat Thread - #28/INFO]: <BeatIes> do u not know how to swim
+[22:54:16] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> it was underground
+[22:54:18] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> doh
+[22:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14461ms or 289 ticks behind
+[22:54:36] [Async Chat Thread - #28/INFO]: <BeatIes> you should probably get good at not dying
+[22:54:50] [Server thread/INFO]: .saitama1pann has made the advancement [Stone Age]
+[22:54:57] [Async Chat Thread - #28/INFO]: <BeatIes> bring doors next time
+[22:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16074ms or 321 ticks behind
+[22:55:14] [Async Chat Thread - #28/INFO]: <ShadowInTime> it takes like
+[22:55:19] [Async Chat Thread - #28/INFO]: <ShadowInTime> 1 minute to get a stone pick
+[22:55:24] [Async Chat Thread - #28/INFO]: <ShadowInTime> 5 minutes tops to get an iron one
+[22:55:25] [Server thread/INFO]: .Phantom3729 has made the advancement [Stone Age]
+[22:55:38] [Async Chat Thread - #28/INFO]: <BeatIes> if u place doors underwater it makes a air bubble
+[22:55:44] [Server thread/INFO]: .saitama1pann has made the advancement [Getting an Upgrade]
+[22:55:55] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> is there an iron generato0r
+[22:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15053ms or 301 ticks behind
+[22:55:59] [Async Chat Thread - #28/INFO]: <BeatIes> yes
+[22:56:00] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> yes
+[22:56:08] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> you cant use it though
+[22:56:10] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> why
+[22:56:15] [Async Chat Thread - #28/INFO]: <BeatIes> not allowed in my bunker
+[22:56:22] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> youre not a part of any of the nations int he alliance
+[22:56:29] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> dont care
+[22:56:31] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> where is it
+[22:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15593ms or 311 ticks behind
+[22:56:50] [Async Chat Thread - #28/INFO]: <BeatIes> nice sensitivity
+[22:57:10] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> Guys
+[22:57:16] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> can we publicly execute him?
+[22:57:16] [Server thread/INFO]: .Phantom3729 has made the advancement [Getting an Upgrade]
+[22:57:20] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> or fine him.
+[22:57:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13257ms or 265 ticks behind
+[22:57:25] [Async Chat Thread - #28/INFO]: <BeatIes> why do u suck at this
+[22:57:25] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> sure fine me
+[22:57:31] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> i have literally no items
+[22:57:32] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> or we can ban you
+[22:57:37] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> for what lol
+[22:57:42] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> stealing
+[22:57:43] [Async Chat Thread - #28/INFO]: <ShadowInTime> well to be fair
+[22:57:57] [Async Chat Thread - #28/INFO]: <ShadowInTime> an iron pick isn't that much
+[22:57:59] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> beatles do you give a damn?
+[22:58:02] [Async Chat Thread - #28/INFO]: <ShadowInTime> up to beaties
+[22:58:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12051ms or 241 ticks behind
+[22:58:10] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> oh and also
+[22:58:14] [Async Chat Thread - #28/INFO]: <BeatIes> odyssey i gave u 3 diamond tools
+[22:58:19] [Async Chat Thread - #28/INFO]: <BeatIes> and u lost them already
+[22:58:22] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> we can ban him for swearing
+[22:58:23] [Async Chat Thread - #28/INFO]: <BeatIes> thats on you
+[22:58:41] [Async Chat Thread - #28/INFO]: <ShadowInTime> ehh
+[22:58:43] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> "damn" and "crap" are literally allowed on scratch
+[22:58:46] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> lmao
+[22:58:49] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> so?
+[22:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14637ms or 292 ticks behind
+[22:58:58] [Async Chat Thread - #28/INFO]: <ShadowInTime> crap isn't really a swear imo
+[22:59:09] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> and damn is allowed on scratch
+[22:59:09] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> i dont think the pwner would like it
+[22:59:14] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> *owner
+[22:59:21] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> i dont think the owner would like you being a karen
+[22:59:27] [Async Chat Thread - #28/INFO]: <BeatIes> i dont think the s word for poop is a swear i get kicked for that sometimes
+[22:59:30] [Async Chat Thread - #28/INFO]: <ShadowInTime> and tbh the badness of swearing is honestly exaggerated imo
+[22:59:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15297ms or 305 ticks behind
+[22:59:38] [Async Chat Thread - #28/INFO]: <ShadowInTime> but that's just my opinion
+[22:59:46] [Async Chat Thread - #28/INFO]: <BeatIes> swearing is only bad if its towards someone
+[22:59:53] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> unm
+[22:59:55] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> swearing is also just how i talk
+[23:00:01] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> i dont share that opinion
+[23:00:08] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> i still swear sometimes irl
+[23:00:08] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> thats a you problem
+[23:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13707ms or 274 ticks behind
+[23:00:22] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> but i dont think the owner would like it
+[23:00:31] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> how would you like it when you get banned?
+[23:00:31] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> i really dont give a crap
+[23:00:36] [Async Chat Thread - #28/INFO]: <BeatIes> i dont think the owner is 10
+[23:00:54] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> have you heard of kids on the server?
+[23:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15517ms or 310 ticks behind
+[23:01:21] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> have you heard of theres 6 year olds on scratch and scratch allows usage of damn and crap
+[23:01:22] [Async Chat Thread - #28/INFO]: <BeatIes> odyssey r u gonna get stacked or not
+[23:01:32] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> beatles im trying not to starve rn
+[23:01:50] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> found some bread
+[23:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16841ms or 336 ticks behind
+[23:02:00] [Async Chat Thread - #28/INFO]: <BeatIes> ok
+[23:02:01] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> umm
+[23:02:07] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> its bread
+[23:02:11] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> ik
+[23:02:22] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> oh also scratch allows usage of hell too
+[23:02:26] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> so i can say that as well
+[23:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11929ms or 238 ticks behind
+[23:02:40] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> this minecraft server isnt based entirely off of scratch
+[23:02:50] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> its literally in the name
+[23:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12075ms or 241 ticks behind
+[23:03:16] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> "dont do anything that isnt allowed on scratch"
+[23:03:21] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> and how do you know all of this? why do you think you can control chat and other rules?
+[23:03:27] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> youre not owner
+[23:03:34] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> youre not either
+[23:03:42] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> so?
+[23:03:46] [Async Chat Thread - #28/INFO]: <BeatIes> stop arguing
+[23:03:51] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> why?
+[23:03:55] [Async Chat Thread - #28/INFO]: <BeatIes> chicken thigh
+[23:03:55] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> yeah this argument is bullcrap
+[23:04:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14273ms or 285 ticks behind
+[23:04:05] [Async Chat Thread - #28/INFO]: <ShadowInTime> what do the rules on the topic say?
+[23:04:18] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> " Don't do anything that wouldn't be allowed on scratch."
+[23:04:41] [Async Chat Thread - #28/INFO]: <ShadowInTime> anything else?
+[23:04:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13720ms or 274 ticks behind
+[23:04:58] [Async Chat Thread - #28/INFO]: <.Phantom3729> dont steal
+[23:04:58] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> "Don't swear or use profanity"
+[23:05:04] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> which in my opinion
+[23:05:13] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> does not include damn, crap, and hell
+[23:05:22] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> that is my interprentation of the rules
+[23:05:23] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> chill out bro, i get that you're an antisocial 7 year old
+[23:05:24] [Async Chat Thread - #28/INFO]: <.Phantom3729> are you a new yorker
+[23:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10331ms or 206 ticks behind
+[23:05:28] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> that has nothing to do
+[23:05:30] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> no im from california
+[23:05:33] [Async Chat Thread - #28/INFO]: <.Phantom3729> new york was like that
+[23:05:39] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> but go one minecraft and act like a 16 year old
+[23:05:46] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> lol, im in california too
+[23:05:50] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> im literaly the same age as beatles
+[23:05:51] [Async Chat Thread - #28/INFO]: <BeatIes> how about no swearing while bedrock players are on!
+[23:05:52] [Async Chat Thread - #28/INFO]: <.Phantom3729> bro same
+[23:06:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10730ms or 214 ticks behind
+[23:06:06] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> right, because bedrock players are 2 years old
+[23:06:07] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> how a
+[23:06:11] [Async Chat Thread - #28/INFO]: <ShadowInTime> simple solution: ask the owner when he gets on
+[23:06:12] [Async Chat Thread - #28/INFO]: <BeatIes> its 4/7 bedrock players
+[23:06:37] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> im pretty sure you're 6 or 7, but you act like a TeEnAgEr
+[23:06:46] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> cause its So CoOl
+[23:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14361ms or 287 ticks behind
+[23:06:51] [Async Chat Thread - #28/INFO]: <ShadowInTime> can we please stop with the personal attacks
+[23:06:53] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> I'm literally a teenager
+[23:07:01] [Async Chat Thread - #28/INFO]: <ShadowInTime> odyssey just hold off and ask the owner later
+[23:07:09] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> ok
+[23:07:13] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> im asking him right now :)
+[23:07:18] [Async Chat Thread - #28/INFO]: <ShadowInTime> it's not that hard to not swear
+[23:07:34] [Async Chat Thread - #28/INFO]: <ShadowInTime> I'm saying this as someone who swears semi frequently irl
+[23:07:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16758ms or 335 ticks behind
+[23:07:45] [Async Chat Thread - #28/INFO]: <BeatIes> odyssey u have a diamond pick by now
+[23:07:47] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> i swear every other word irl
+[23:07:49] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> no beatles
+[23:08:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13025ms or 260 ticks behind
+[23:08:37] [Server thread/INFO]: Letzdotheodyssey has made the advancement [Getting an Upgrade]
+[23:08:44] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> so i just asked the owner
+[23:08:48] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> my logic is that if i can say it on scratch i can say it anywhere
+[23:09:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12231ms or 244 ticks behind
+[23:09:14] [Server thread/INFO]: Letzdotheodyssey has made the advancement [Monster Hunter]
+[23:09:14] [Server thread/INFO]: Letzdotheodyssey was shot by Skeleton
+[23:09:20] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> BRUH WHAT
+[23:09:22] [Async Chat Thread - #28/INFO]: <.Phantom3729> rip
+[23:09:30] [Async Chat Thread - #28/INFO]: <ShadowInTime> fun fact: there was a period when the n word was not blocked on scratch
+[23:09:33] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> are you yeetoburro on scratch?
+[23:09:40] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> no im griffpatch
+[23:09:41] [Async Chat Thread - #28/INFO]: <.Phantom3729> thats screwed up
+[23:09:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19295ms or 385 ticks behind
+[23:09:51] [Async Chat Thread - #28/INFO]: <.Phantom3729> griffpatch lmao
+[23:09:51] [Async Chat Thread - #28/INFO]: <BeatIes> he is yeetoburro1
+[23:09:51] [Async Chat Thread - #28/INFO]: <ShadowInTime> the logic that "anything that can be said on scratch is okay" doesn't really hold
+[23:10:03] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> omg Griffpatch nice joke
+[23:10:06] [Server thread/INFO]: ShadowInTime lost connection: Disconnected
+[23:10:06] [Server thread/INFO]: ShadowInTime left the game
+[23:10:10] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> unless its obvious like the n word
+[23:10:21] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> i dont think you should have to be told not to sayu that
+[23:10:28] [Async Chat Thread - #28/INFO]: <.Phantom3729> what if the f word wasnt blocked?
+[23:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13544ms or 270 ticks behind
+[23:10:35] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> I'd say it
+[23:10:39] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> afk
+[23:10:40] [Async Chat Thread - #28/INFO]: <.Phantom3729> b r u h
+[23:10:45] [Server thread/WARN]: Letzdotheodyssey moved wrongly!
+[23:10:56] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> HELP
+[23:10:57] [Server thread/INFO]: Letzdotheodyssey was slain by .DragonGirl39252
+[23:11:01] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> he attacked me
+[23:11:05] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> I GOT KILLED FOR NO REASON
+[23:11:08] [Async Chat Thread - #28/INFO]: <.Phantom3729> lmao
+[23:11:10] [Async Chat Thread - #28/INFO]: <.saitama1pann> haha lol
+[23:11:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8385ms or 167 ticks behind
+[23:11:13] [Async Chat Thread - #28/INFO]: <BeatIes> dragon u were "afk"
+[23:11:15] [Async Chat Thread - #28/INFO]: <.Phantom3729> attacking eastpoint leader
+[23:11:18] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> yep
+[23:11:21] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> i wanted to see
+[23:11:26] [Async Chat Thread - #28/INFO]: <.saitama1pann> you kind of deserved it
+[23:11:32] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> i didnt attack
+[23:11:38] [Async Chat Thread - #28/INFO]: <BeatIes> odyssey why are you being so annoying
+[23:11:41] [Server thread/INFO]: .Phantom3729 has made the advancement [Monster Hunter]
+[23:11:51] [Async Chat Thread - #28/INFO]: <BeatIes> be nice to bedrock players
+[23:11:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9742ms or 194 ticks behind
+[23:11:56] [Async Chat Thread - #28/INFO]: <BeatIes> they go threw a lot
+[23:12:00] [Async Chat Thread - #28/INFO]: <BeatIes> through
+[23:12:00] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> beatles mind if i take some iron crap?
+[23:12:08] [Async Chat Thread - #28/INFO]: <BeatIes> from where
+[23:12:12] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> your house
+[23:12:16] [Async Chat Thread - #28/INFO]: <.Phantom3729> where iron farm
+[23:12:20] [Async Chat Thread - #28/INFO]: <BeatIes> i told u not to go in there
+[23:12:25] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> oh right
+[23:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8391ms or 167 ticks behind
+[23:12:36] [Async Chat Thread - #28/INFO]: <BeatIes> if i catch u again im just gonna spawn kill u
+[23:12:47] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> can i go in there rq and get some stuff
+[23:12:52] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> his spawn is in doofania
+[23:12:55] [Async Chat Thread - #28/INFO]: <BeatIes> sine wgat
+[23:12:58] [Async Chat Thread - #28/INFO]: <BeatIes> some what
+[23:13:04] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> ?
+[23:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6302ms or 126 ticks behind
+[23:13:08] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> what is that supposed to mean lol
+[23:13:17] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> just some advice
+[23:13:19] [Async Chat Thread - #28/INFO]: <BeatIes> get some what
+[23:13:25] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> iron crap
+[23:13:30] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> armor and tools
+[23:13:32] [Server thread/INFO]: .DragonGirl39252 issued server command: /w BeatIles if you spawn kill him, his spawn is in doofania
+[23:13:35] [Async Chat Thread - #28/INFO]: <BeatIes> wth is a iron crap
+[23:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6189ms or 123 ticks behind
+[23:13:56] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> why do you not understand the english language
+[23:13:56] [Async Chat Thread - #28/INFO]: <BeatIes> where are you
+[23:13:57] [Server thread/INFO]: .Phantom3729 has made the advancement [Acquire Hardware]
+[23:14:07] [Server thread/INFO]: Letzdotheodyssey has made the advancement [Suit Up]
+[23:14:09] [Async Chat Thread - #28/INFO]: <.Phantom3729> mother of god im rich
+[23:14:16] [Async Chat Thread - #28/INFO]: <BeatIes> if u lose it that ur fault
+[23:14:17] [Async Chat Thread - #28/INFO]: <.DragonGirl39252> brb
+[23:14:18] [Async Chat Thread - #28/INFO]: <BeatIes> not mine
+[23:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8096ms or 161 ticks behind
+[23:14:22] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] DragonGirl39252 has disconnected from the Java server because of Bedrock client disconnected
+[23:14:22] [Geyser Spigot connection thread-4-1/INFO]: [floodgate] Floodgate player logged in as .DragonGirl39252 disconnected
+[23:14:22] [Server thread/INFO]: .DragonGirl39252 lost connection: Disconnected
+[23:14:22] [Server thread/INFO]: .DragonGirl39252 left the game
+[23:14:30] [Server thread/INFO]: .Phantom3729 has made the advancement [Suit Up]
+[23:14:31] [Async Chat Thread - #28/INFO]: <BeatIes> sleep
+[23:14:51] [Async Chat Thread - #28/INFO]: <BeatIes> yeeto come here
+[23:14:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7300ms or 146 ticks behind
+[23:15:01] [Geyser Spigot connection thread-4-3/INFO]: [floodgate] Floodgate player logged in as .saitama1pann disconnected
+[23:15:01] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] saitama1pann has disconnected from the Java server because of Bedrock client disconnected
+[23:15:01] [Server thread/INFO]: .saitama1pann lost connection: Disconnected
+[23:15:01] [Server thread/INFO]: .saitama1pann left the game
+[23:15:19] [Async Chat Thread - #28/INFO]: <BeatIes> sleep in the gray bed
+[23:15:28] [Async Chat Thread - #28/INFO]: <Letzdotheodyssey> you said im not allowed
+[23:15:34] [Async Chat Thread - #28/INFO]: <BeatIes> u can go in the top floor
+[23:15:37] [Async Chat Thread - #28/INFO]: <BeatIes> but not the bunker
+[23:15:40] [Async Chat Thread - #28/INFO]: <.Phantom3729> im sorry i pressed the pressure plate
+[23:15:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[23:16:11] [Network Listener - #3/INFO]: [Geyser-Spigot] /**.**.**.**:50656 tried to connect!
+[23:16:12] [Network Listener - #3/INFO]: [Geyser-Spigot] Player connected with username saitama1pann
+[23:16:12] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] saitama1pann (logged in as: saitama1pann) has connected to the Java server
+[23:16:13] [Geyser Spigot connection thread-4-4/INFO]: UUID of player .saitama1pann is 00000000-0000-0000-0009-01fe0db8fa77
+[23:16:13] [Server thread/INFO]: [floodgate] Floodgate player logged in as .saitama1pann joined (UUID: 00000000-0000-0000-0009-01fe0db8fa77)
+[23:16:13] [Server thread/INFO]: .saitama1pann joined the game
+[23:16:13] [Server thread/INFO]: .saitama1pann[/**.**.**.**:0] logged in with entity id 145068 at ([world]205.35907, 69.0, 256.70023)
+[23:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[23:16:24] [Server thread/INFO]: .Phantom3729 has made the advancement [Not Today, Thank You]
+[23:16:48] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> who wants to plot to kill dragongirl
+[23:16:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[23:17:02] [Async Chat Thread - #29/INFO]: <BeatIes> nobody
+[23:17:07] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> …
+[23:17:12] [Async Chat Thread - #29/INFO]: <BeatIes> dont they have full diamond
+[23:17:15] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> yes
+[23:17:20] [Async Chat Thread - #29/INFO]: <BeatIes> good lucl
+[23:17:21] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> nobody want's to do that
+[23:17:29] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> if you do
+[23:17:40] [Network Listener - #0/INFO]: [Geyser-Spigot] /**.**.**.**:52987 tried to connect!
+[23:17:41] [Network Listener - #0/INFO]: [Geyser-Spigot] Player connected with username DragonGirl39252
+[23:17:41] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] DragonGirl39252 (logged in as: DragonGirl39252) has connected to the Java server
+[23:17:41] [Geyser Spigot connection thread-4-1/INFO]: UUID of player .DragonGirl39252 is 00000000-0000-0000-0009-01f565b3a6c4
+[23:17:41] [Server thread/INFO]: [floodgate] Floodgate player logged in as .DragonGirl39252 joined (UUID: 00000000-0000-0000-0009-01f565b3a6c4)
+[23:17:41] [Server thread/INFO]: .DragonGirl39252 joined the game
+[23:17:41] [Server thread/INFO]: .DragonGirl39252[/**.**.**.**:0] logged in with entity id 145762 at ([world]255.70483, 68.0, 229.27475)
+[23:17:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[23:18:05] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> oh and odyssey
+[23:18:08] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> remember
+[23:18:17] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> you invited yourself into eastpoint
+[23:18:18] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> haha remember
+[23:18:22] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> i think dragon would turn everyone agents you and will hunt u down
+[23:18:24] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> inside man joke
+[23:18:27] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> lol
+[23:18:34] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> Guys
+[23:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[23:18:49] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> eh im more feeling doofania
+[23:18:54] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> Check the forum
+[23:18:56] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> he said
+[23:19:01] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> in the census
+[23:19:08] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> hes in eastpoint
+[23:19:09] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> noncorrupt leader in doofania
+[23:19:11] [Async Chat Thread - #29/INFO]: <BeatIes> swim is full netherite so i wouldnt overthrow eastpoint
+[23:19:18] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> and doofania wont accept you
+[23:19:23] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> I warned NinWiidle
+[23:19:23] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> no why would i overthrow eastpoint
+[23:19:33] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> me and ninwiidle literally fought wars together
+[23:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[23:19:36] [Async Chat Thread - #29/INFO]: <BeatIes> because no other nations like u
+[23:19:43] [Async Chat Thread - #29/INFO]: <.Phantom3729> well you literally attacked eastpoint leader just now lol
+[23:19:47] [Async Chat Thread - #29/INFO]: <BeatIes> you fought wars against each other
+[23:19:55] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> we fought one war against each other
+[23:20:08] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> and 2 where we were fighting together
+[23:20:09] [Async Chat Thread - #29/INFO]: <.Phantom3729> first impression is important
+[23:20:19] [Async Chat Thread - #29/INFO]: <.Phantom3729> thats what my dead great grandmother said
+[23:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[23:20:50] [Async Chat Thread - #29/INFO]: <BeatIes> BO
+[23:20:52] [Async Chat Thread - #29/INFO]: <BeatIes> BOO
+[23:20:55] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> umm
+[23:20:56] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> hi
+[23:20:59] [Async Chat Thread - #29/INFO]: <BeatIes> lol
+[23:21:02] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> beatles kill her
+[23:21:06] [Async Chat Thread - #29/INFO]: <BeatIes> very nice house
+[23:21:09] [Async Chat Thread - #29/INFO]: <.Phantom3729> he just ruined his entire career here
+[23:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[23:21:30] [Async Chat Thread - #29/INFO]: <BeatIes> phantom u want diamonds?
+[23:21:35] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> i want diamonds
+[23:21:40] [Async Chat Thread - #29/INFO]: <.Phantom3729> sure
+[23:21:44] [Async Chat Thread - #29/INFO]: <.Phantom3729> that sounds cool
+[23:21:46] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> since eastpoint has rejected you, odyssey
+[23:21:51] [Async Chat Thread - #29/INFO]: <BeatIes> i need an echest
+[23:21:55] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> the whole alliance wont want you here
+[23:22:04] [Async Chat Thread - #29/INFO]: <.Phantom3729> theres one in iron farm
+[23:22:11] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> wheres iron farm
+[23:22:16] [Async Chat Thread - #29/INFO]: <BeatIes> dont tell him
+[23:22:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[23:22:22] [Async Chat Thread - #29/INFO]: <.Phantom3729> idr
+[23:22:23] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> please tell me
+[23:22:24] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> ill kill you again if you steal.
+[23:22:36] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> oh no i stole one seed
+[23:22:49] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> better kill me!
+[23:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5266ms or 105 ticks behind
+[23:23:06] [Async Chat Thread - #29/INFO]: <.Phantom3729> ur literally killing yourself with your words
+[23:23:07] [Server thread/INFO]: Letzdotheodyssey hit the ground too hard
+[23:23:10] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> ow
+[23:23:15] [Async Chat Thread - #29/INFO]: <.Phantom3729> wait no
+[23:23:19] [Async Chat Thread - #29/INFO]: <.saitama1pann> this odessey guy is so annoying
+[23:23:22] [Async Chat Thread - #29/INFO]: <BeatIes> odyssey u have died 4 times already
+[23:23:23] [Async Chat Thread - #29/INFO]: <.Phantom3729> thats not what i mean
+[23:23:31] [Async Chat Thread - #29/INFO]: <BeatIes> phantom where u at
+[23:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7319ms or 146 ticks behind
+[23:23:37] [Async Chat Thread - #29/INFO]: <BeatIes> i have a diamond block for u
+[23:23:39] [Async Chat Thread - #29/INFO]: <.Phantom3729> hello
+[23:23:42] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> haha just wait until im in command of a regiment
+[23:23:47] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> dang, a DeCoRaTeD wAr GeNeRaL
+[23:23:50] [Async Chat Thread - #29/INFO]: <.Phantom3729> omg
+[23:23:54] [Async Chat Thread - #29/INFO]: <.Phantom3729> thanks so much
+[23:23:58] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> dragon how many wars have you won
+[23:24:04] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> thats right
+[23:24:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5119ms or 102 ticks behind
+[23:24:18] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> you see
+[23:24:26] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> Im not a reckless person
+[23:24:28] [Server thread/INFO]: .Phantom3729 has made the advancement [Isn't It Iron Pick]
+[23:24:30] [Server thread/INFO]: BeatIes issued server command: /tell .Phantom3729 say in chat OMG 32 DIAMONDS THANKS to troll odyssey
+[23:24:34] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> so i get things resolved easily
+[23:24:35] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> me either lol
+[23:24:40] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> unlike you
+[23:24:47] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> who always resorts to violence
+[23:24:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8969ms or 179 ticks behind
+[23:24:50] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> i get things resolved easily
+[23:25:01] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> artillery strikes are pretty easy
+[23:25:09] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> lol, totally not a lie
+[23:25:12] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> can we plz move on from this subject
+[23:25:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8836ms or 176 ticks behind
+[23:25:30] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> also i think a war will start for some reson
+[23:25:34] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> no beacuse dragon thinks im not a good general
+[23:25:41] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> yeah
+[23:25:42] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> when shes literally never won a war
+[23:25:46] [Async Chat Thread - #29/INFO]: <BeatIes> dragon is 1000% correct
+[23:25:54] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> odyssey
+[23:26:00] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> i have a choice for you
+[23:26:01] [Async Chat Thread - #29/INFO]: <BeatIes> you never help on CoF and u just do /give to get all your stuff
+[23:26:03] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> well let's just say she has
+[23:26:04] [Server thread/INFO]: .saitama1pann has made the advancement [A Seedy Place]
+[23:26:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9072ms or 181 ticks behind
+[23:26:10] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> this is false
+[23:26:15] [Async Chat Thread - #29/INFO]: <BeatIes> this is true
+[23:26:21] [Async Chat Thread - #29/INFO]: <BeatIes> i have proof and weedle does too
+[23:26:23] [Server thread/INFO]: Letzdotheodyssey issued server command: /w BeatIes why would you say that
+[23:26:30] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> that was literally 3fs
+[23:26:30] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> either you stop your lies and not get rejected by all of the nations
+[23:26:40] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> what lies
+[23:26:47] [Async Chat Thread - #29/INFO]: <BeatIes> i dont give 3fs about your lies
+[23:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10416ms or 208 ticks behind
+[23:26:56] [Async Chat Thread - #29/INFO]: <BeatIes> cmon that was a good joke
+[23:26:58] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> or you become an outcast, an exile of every. single. nation.
+[23:27:03] [Async Chat Thread - #29/INFO]: <BeatIes> i dont give 3 fs
+[23:27:16] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> dragon youre not gonna yell at him for a f word reference
+[23:27:25] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> i was talking to odyssey .-.
+[23:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10993ms or 219 ticks behind
+[23:27:34] [Async Chat Thread - #29/INFO]: <BeatIes> u just referenced it?
+[23:27:43] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> i might as well warn experia and blackwater too
+[23:27:47] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> hold on lemme hit ninwiidle up on purple app
+[23:27:52] [Async Chat Thread - #29/INFO]: <BeatIes> also swearing is only ok if its funny
+[23:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10826ms or 216 ticks behind
+[23:28:39] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> alrighty then
+[23:28:44] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> now its time to create a new faction!
+[23:28:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11211ms or 224 ticks behind
+[23:28:54] [Async Chat Thread - #29/INFO]: <BeatIes> who is going to join it lmao
+[23:28:56] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> yay, good luck
+[23:28:59] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> because having 4 factions that are a single faction is not fun
+[23:29:01] [Async Chat Thread - #29/INFO]: <.Phantom3729> odyssey faction(1 person)
+[23:29:01] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> nezon
+[23:29:06] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> whos your Allies?
+[23:29:11] [Async Chat Thread - #29/INFO]: <BeatIes> there is so many factions
+[23:29:13] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> dont need allies
+[23:29:16] [Async Chat Thread - #29/INFO]: <BeatIes> that u dont know about
+[23:29:24] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> I HAVE A GOOD IDEA
+[23:29:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10309ms or 206 ticks behind
+[23:29:35] [Async Chat Thread - #29/INFO]: <BeatIes> experia, blackcoast or something, the shire, the box
+[23:29:54] [Async Chat Thread - #29/INFO]: <BeatIes> that other one
+[23:29:55] [Geyser Spigot connection thread-4-4/INFO]: [floodgate] Floodgate player logged in as .saitama1pann disconnected
+[23:29:55] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] saitama1pann has disconnected from the Java server because of Bedrock client disconnected
+[23:29:55] [Server thread/INFO]: .saitama1pann lost connection: Disconnected
+[23:29:55] [Server thread/INFO]: .saitama1pann left the game
+[23:29:57] [Async Chat Thread - #29/INFO]: <BeatIes> near the shire
+[23:30:00] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> We should meet at spawn and give echother peace presents
+[23:30:05] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> the box by roddy ricch?
+[23:30:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9510ms or 190 ticks behind
+[23:30:16] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> ( not including odyssey)
+[23:30:17] [Async Chat Thread - #29/INFO]: <BeatIes> odyssey
+[23:30:18] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> e u
+[23:30:20] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> e u
+[23:30:22] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> e u
+[23:30:27] [Async Chat Thread - #29/INFO]: <BeatIes> make ur own nation already
+[23:30:30] [Async Chat Thread - #29/INFO]: <BeatIes> i want to see it
+[23:30:33] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> sorry odyssey i think they will not like it
+[23:30:36] [Async Chat Thread - #29/INFO]: <BeatIes> get working
+[23:30:36] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> who just hit me?
+[23:30:42] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> jow
+[23:30:42] [Async Chat Thread - #29/INFO]: <BeatIes> the chicken ofc
+[23:30:44] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> did you just hit me?
+[23:30:45] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> if you join it
+[23:30:52] [Async Chat Thread - #29/INFO]: <BeatIes> ur not appart of doofania
+[23:30:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[23:30:57] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> dragon can you come kill this dude?
+[23:30:57] [Async Chat Thread - #29/INFO]: <BeatIes> i can kill u if i want
+[23:31:03] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> he hit me\
+[23:31:07] [Async Chat Thread - #29/INFO]: <BeatIes> ur on doofania property
+[23:31:13] [User Authenticator #14/INFO]: UUID of player Nezons is 6a3bf1b3-d06c-41ee-bf3e-6d87934e70d6
+[23:31:13] [Server thread/INFO]: Nezons joined the game
+[23:31:13] [Server thread/INFO]: Nezons[/**.**.**.**:49449] logged in with entity id 153909 at ([world]cords removed as requested)
+[23:31:22] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> what and im not allowed to be on doofania property?
+[23:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5447ms or 108 ticks behind
+[23:31:31] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> yes
+[23:31:33] [Async Chat Thread - #29/INFO]: <BeatIes> yes
+[23:31:37] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> youre not in doofania
+[23:31:39] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> actually
+[23:31:42] [Async Chat Thread - #29/INFO]: <BeatIes> u just said ur making a new nation
+[23:31:43] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> that seems like your guys's problem
+[23:31:45] [Async Chat Thread - #29/INFO]: <BeatIes> there is no allies
+[23:31:52] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> ok, EVERYONE MEET AT SPAWN!!,
+[23:31:54] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> ok
+[23:32:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6068ms or 121 ticks behind
+[23:32:05] [Async Chat Thread - #29/INFO]: <BeatIes> i can make odyssey meet at spawn if i kill him
+[23:32:12] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> you are usually allowed on doofania, even if youre not in the nation
+[23:32:12] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> oki
+[23:32:18] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> then it is off
+[23:32:21] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> my spawn is literally your house
+[23:32:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6842ms or 136 ticks behind
+[23:33:01] [Async Chat Thread - #29/INFO]: <BeatIes> its so dark can we sleep
+[23:33:06] [Server thread/WARN]: Ignoring UseItemOnPacket from .Phantom3729: Location (231.23341369628906, 71.14286041259766, 234.7482452392578) too far away from hit block BlockPosition{x=230, y=72, z=234}.
+[23:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5662ms or 113 ticks behind
+[23:33:27] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> bearies where r u i wanna give you something
+[23:33:41] [Async Chat Thread - #29/INFO]: <BeatIes> bearies
+[23:33:42] [Async Chat Thread - #29/INFO]: <BeatIes> ues
+[23:33:46] [Async Chat Thread - #29/INFO]: <BeatIes> i like that
+[23:33:48] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> sorry
+[23:33:53] [Async Chat Thread - #29/INFO]: <BeatIes> i might use that name
+[23:34:01] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> lol
+[23:34:03] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> yes zombie
+[23:34:26] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> but answer my quetion
+[23:34:31] [Async Chat Thread - #29/INFO]: <BeatIes> im at spawn matte
+[23:34:32] [Async Chat Thread - #29/INFO]: <Nezons> please sleep i
+[23:34:43] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> oki im coming
+[23:34:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[23:34:55] [Server thread/WARN]: .MatteCarton7716 moved wrongly!
+[23:35:12] [Async Chat Thread - #29/INFO]: <BeatIes> imagine no silk touch
+[23:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
+[23:35:22] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> lol
+[23:35:43] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> imma go to doofania just to troll
+[23:35:43] [Async Chat Thread - #29/INFO]: <BeatIes> hi
+[23:35:48] [Async Chat Thread - #29/INFO]: <BeatIes> brb
+[23:35:49] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> nvm
+[23:35:56] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> get trolled
+[23:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[23:36:19] [Async Chat Thread - #29/INFO]: <BeatIes> hi
+[23:36:41] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> can i have something
+[23:36:48] [Async Chat Thread - #29/INFO]: <BeatIes> ty
+[23:37:12] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> ty
+[23:37:15] [Async Chat Thread - #29/INFO]: <BeatIes> matte
+[23:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[23:37:25] [Network Listener - #3/INFO]: [Geyser-Spigot] /**.**.**.**:50656 tried to connect!
+[23:37:26] [Network Listener - #1/INFO]: [Geyser-Spigot] Player connected with username saitama1pann
+[23:37:26] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] saitama1pann (logged in as: saitama1pann) has connected to the Java server
+[23:37:26] [Geyser Spigot connection thread-4-2/INFO]: UUID of player .saitama1pann is 00000000-0000-0000-0009-01fe0db8fa77
+[23:37:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .saitama1pann joined (UUID: 00000000-0000-0000-0009-01fe0db8fa77)
+[23:37:26] [Server thread/INFO]: .saitama1pann joined the game
+[23:37:26] [Server thread/INFO]: .saitama1pann[/**.**.**.**:0] logged in with entity id 158279 at ([world]-17.4316, 63.0, 361.20535)
+[23:37:45] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> wat
+[23:37:47] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> slep
+[23:37:50] [Async Chat Thread - #29/INFO]: <BeatIes> nvm
+[23:37:52] [Async Chat Thread - #29/INFO]: <Nezons> do not
+[23:37:53] [Async Chat Thread - #29/INFO]: <BeatIes> ty for the stuff
+[23:37:55] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> ok
+[23:37:59] [Async Chat Thread - #29/INFO]: <Nezons> it'll become night again
+[23:38:01] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> ur welcom
+[23:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17496ms or 349 ticks behind
+[23:38:16] [Async Chat Thread - #29/INFO]: <Nezons> or not
+[23:38:27] [Async Chat Thread - #29/INFO]: <BeatIes> ur not allowed here
+[23:38:35] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> did i ask
+[23:38:48] [Server thread/INFO]: Letzdotheodyssey was slain by BeatIes
+[23:38:51] [Server thread/INFO]: Nezons has made the advancement [Monster Hunter]
+[23:38:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18276ms or 365 ticks behind
+[23:38:58] [Async Chat Thread - #29/INFO]: <BeatIes> i warned u enough
+[23:39:01] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> …
+[23:39:04] [Async Chat Thread - #29/INFO]: <.MatteCarton7716> wow
+[23:39:08] [Server thread/INFO]: Letzdotheodyssey was slain by BeatIes
+[23:39:17] [Async Chat Thread - #29/INFO]: <Nezons> g
+[23:39:20] [Async Chat Thread - #29/INFO]: <Nezons> f
+[23:39:22] [Server thread/INFO]: Letzdotheodyssey was slain by BeatIes
+[23:39:26] [Server thread/INFO]: Nezons was slain by Zombie
+[23:39:27] [Server thread/INFO]: Letzdotheodyssey was slain by BeatIes
+[23:39:32] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> just mean
+[23:39:33] [Server thread/INFO]: Letzdotheodyssey was slain by BeatIes
+[23:39:39] [Server thread/INFO]: Letzdotheodyssey was slain by BeatIes
+[23:39:44] [Async Chat Thread - #29/INFO]: <BeatIes> leave
+[23:39:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19227ms or 384 ticks behind
+[23:39:49] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> bros not even giving me a chance to walk
+[23:39:57] [Async Chat Thread - #29/INFO]: <BeatIes> i gave u plenty of chance
+[23:40:10] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> we all did
+[23:40:12] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> bro i was walking
+[23:40:20] [Server thread/INFO]: Letzdotheodyssey was slain by BeatIes
+[23:40:25] [Async Chat Thread - #29/INFO]: <BeatIes> now ur gone
+[23:40:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15475ms or 309 ticks behind
+[23:40:34] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> where are you?
+[23:40:39] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> i want to join in
+[23:40:42] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> whats ur guys's problem with me
+[23:40:43] [Async Chat Thread - #29/INFO]: <BeatIes> i now have 7 of ur heads
+[23:41:03] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> i got 1 and put it in my room of criminals
+[23:41:10] [Async Chat Thread - #29/INFO]: <.saitama1pann> thou shalt be taketh of thee dignity
+[23:41:11] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> whats my crime lol
+[23:41:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15522ms or 310 ticks behind
+[23:41:26] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> stealing
+[23:41:27] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> im not in eastpoint rn
+[23:41:28] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> lies
+[23:41:32] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> what did i steal??????
+[23:41:35] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> lol
+[23:41:40] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> besides a damn iron pick?
+[23:41:40] [Async Chat Thread - #29/INFO]: <.saitama1pann> i am talketh to ye sir odessey
+[23:41:42] [Async Chat Thread - #29/INFO]: <BeatIes> iron pick
+[23:41:54] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> from a dude who has netherite???
+[23:42:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16048ms or 320 ticks behind
+[23:42:04] [Async Chat Thread - #29/INFO]: <BeatIes> yep
+[23:42:10] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> beatles
+[23:42:15] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> wheres his spawn?
+[23:42:21] [Async Chat Thread - #29/INFO]: <BeatIes> like 0, 0
+[23:42:30] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> also im not in eastpoint
+[23:42:34] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> so you guys cant kill me
+[23:42:38] [Server thread/INFO]: Letzdotheodyssey was slain by .DragonGirl39252
+[23:42:44] [Async Chat Thread - #29/INFO]: <BeatIes> we can kill u anywhere
+[23:42:46] [Async Chat Thread - #29/INFO]: <.Phantom3729> irony
+[23:42:49] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> ok thats literally against the rules
+[23:42:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17037ms or 340 ticks behind
+[23:42:51] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> imma report you
+[23:42:55] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> actually
+[23:43:08] [Async Chat Thread - #29/INFO]: <BeatIes> against which rule?
+[23:43:20] [Server thread/INFO]: Letzdotheodyssey was slain by .DragonGirl39252
+[23:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14003ms or 280 ticks behind
+[23:43:38] [Async Chat Thread - #29/INFO]: <.saitama1pann> good job dragon
+[23:43:45] [Async Chat Thread - #29/INFO]: <.saitama1pann> you
+[23:43:53] [Async Chat Thread - #29/INFO]: <BeatIes> odyssey u said ur gonna make a nation
+[23:44:06] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> "please dont be toxic, thats not cool"
+[23:44:10] [Async Chat Thread - #29/INFO]: <.saitama1pann> thou perishen art odessey
+[23:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6832ms or 136 ticks behind
+[23:44:16] [Async Chat Thread - #29/INFO]: <BeatIes> You literally were toxic
+[23:44:25] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> how
+[23:44:31] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> i wasnt spawn killing anyone
+[23:44:35] [Async Chat Thread - #29/INFO]: <BeatIes> u were being rude to dragon
+[23:44:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8472ms or 169 ticks behind
+[23:44:50] [Async Chat Thread - #29/INFO]: <BeatIes> i didnt spawn kill u werent leaving
+[23:44:52] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> how???
+[23:45:00] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> beatles do you have arrows?
+[23:45:05] [Async Chat Thread - #29/INFO]: <BeatIes> not on me
+[23:45:12] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> umm
+[23:45:15] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> lag?
+[23:45:15] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> she was literally the one personally attacking me!
+[23:45:17] [Server thread/INFO]: Letzdotheodyssey lost connection: Disconnected
+[23:45:17] [Server thread/INFO]: Letzdotheodyssey left the game
+[23:45:20] [User Authenticator #15/INFO]: UUID of player Letzdotheodyssey is 88913709-1c34-4961-b08b-d5493e854326
+[23:45:20] [Server thread/INFO]: Letzdotheodyssey joined the game
+[23:45:20] [Server thread/INFO]: Letzdotheodyssey[/**.**.**.**:52122] logged in with entity id 164615 at ([world]-28.4207766723526, 85.48305205089503, 51.642312288711004)
+[23:45:25] [Async Chat Thread - #29/INFO]: <BeatIes> fly hack
+[23:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6468ms or 129 ticks behind
+[23:45:26] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> thanks internet
+[23:45:27] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> did i just see him floating?
+[23:45:34] [Async Chat Thread - #29/INFO]: <Nezons> lag
+[23:45:35] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> trash wifi moment
+[23:45:37] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> you know what?
+[23:45:37] [Async Chat Thread - #29/INFO]: <BeatIes> yes prob 5k ping
+[23:45:41] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> afk
+[23:45:51] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> beatles stay near
+[23:45:52] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> dragon you were literally the one who personally attacked me
+[23:45:56] [Async Chat Thread - #29/INFO]: <Nezons> woo snowy taiga
+[23:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6119ms or 122 ticks behind
+[23:46:03] [Async Chat Thread - #29/INFO]: <BeatIes> odyssey u keep threatening to overthrow countries
+[23:46:14] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> mhm
+[23:46:23] [Async Chat Thread - #29/INFO]: <BeatIes> You literally did
+[23:46:23] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> does that break any rules?
+[23:46:30] [Async Chat Thread - #29/INFO]: <BeatIes> it doesnt break rules
+[23:46:33] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> didnt think so
+[23:46:36] [Async Chat Thread - #29/INFO]: <BeatIes> but it shows ur being a dumbass
+[23:46:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5742ms or 114 ticks behind
+[23:46:38] [Async Chat Thread - #29/INFO]: <BeatIes> you have no items
+[23:46:39] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> then dragon personally attacks me
+[23:46:46] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> ok thats rude
+[23:46:49] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> im gonna log off
+[23:47:01] [Server thread/INFO]: Letzdotheodyssey was slain by .DragonGirl39252
+[23:47:06] [Server thread/INFO]: Nezons has made the advancement [Stone Age]
+[23:47:07] [Async Chat Thread - #29/INFO]: <Letzdotheodyssey> youre so bad at pvp lol
+[23:47:12] [Server thread/INFO]: Letzdotheodyssey lost connection: Disconnected
+[23:47:12] [Server thread/INFO]: Letzdotheodyssey left the game
+[23:47:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5862ms or 117 ticks behind
+[23:47:24] [Async Chat Thread - #29/INFO]: <.Phantom3729> dude literally got killed by dragon like 50 times
+[23:47:30] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> ragequitter
+[23:47:31] [Async Chat Thread - #29/INFO]: <BeatIes> TROPICAL FISH
+[23:47:33] [Async Chat Thread - #29/INFO]: <.DragonGirl39252> afk
+[23:47:36] [Async Chat Thread - #29/INFO]: <BeatIes> keep him here
+[23:47:39] [Async Chat Thread - #29/INFO]: <.Phantom3729> and he said that dragon sucked at pvp lol
+[23:47:41] [Async Chat Thread - #29/INFO]: <BeatIes> ty
+[23:47:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[23:47:56] [Async Chat Thread - #29/INFO]: <.saitama1pann> how can thou stoop low
+[23:48:12] [Server thread/INFO]: Nezons has made the advancement [Getting an Upgrade]
+[23:48:16] [Async Chat Thread - #29/INFO]: <.saitama1pann> so that thou ragequit in minecraft
+[23:48:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8863ms or 177 ticks behind
+[23:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12458ms or 249 ticks behind
+[23:49:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14337ms or 286 ticks behind
+[23:50:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12702ms or 254 ticks behind
+[23:50:50] [Async Chat Thread - #30/INFO]: <.DragonGirl39252> yo
+[23:51:01] [Async Chat Thread - #30/INFO]: <.DragonGirl39252> what if we sold odyssey's head?
+[23:51:08] [Async Chat Thread - #30/INFO]: <BeatIes> i have 7
+[23:51:20] [Async Chat Thread - #30/INFO]: <.DragonGirl39252> I have 2, im using 1 for decor though
+[23:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14605ms or 292 ticks behind
+[23:51:57] [Async Chat Thread - #30/INFO]: <BeatIes> you can see why i said i was unfortunately friends with yeeto
+[23:52:09] [Async Chat Thread - #30/INFO]: <.DragonGirl39252> oh
