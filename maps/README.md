@@ -1,6 +1,6 @@
 # ajsya/Scratch-Empires/maps
 
-Found in this folder are maps of the server that the community have created.
+Found in [this folder](https://github.com/ajsya/Scratch-Empires/tree/main/maps) are maps of the server that the community have created.
 
 ## Credits
 - BlueDerv
