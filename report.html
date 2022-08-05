@@ -3,30 +3,24 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Report a user | Scratch Empires</title>
-  </head>
+    <title>Report a user - Scratch Empires</title>   
+  </head>   
   <body>
-    <button onclick="sendMessage()">Send</button>
+    <center>
+        <h1>Report a user</h1>
+        <p>Use this form to anonymously report a player who is breaking the server rules.</p><br /><br />
+        
+        <input type="text" id="username" placeholder="Offender's username">
+        <p>The username of the person who broke the server rules.</p>
+        <input type="text" id="crime" placeholder="List violation">
+        <p>What rule they broke</p>
+        <input type="datetime-local" id="datetime">
+        <p>Time of the Violation</p>
+        <textarea id="message" name="message" rows="4" cols="50" placeholder="More information..."></textarea>
+        <p>List any other nessesarily information or go into more detail.</p>
+        
+        <button onclick="sendMessage()">Send</button>
+        <p style="font-size:12px">Please do not spam requests. Only send valid reports.</p>
+    </center>
   </body>
-
-  <script>
-    function sendMessage() {
-      const request = new XMLHttpRequest();
-      request.open(
-        "POST",
-        "https://discord.com/api/webhooks/1005194053253603409/NRWImQsyF-5WVDxyCEI3hVGjz1RSSwLTwBkbENVBejqCt3HT-dbGZEJTP2iwXOycTT57"
-      );
-
-      request.setRequestHeader("Content-type", "application/json");
-
-      const params = {
-        username: "SharkBaitBilly",
-        avatar_url: "",
-        content: "This message is glitched.",
-      };
-
-      request.send(JSON.stringify(params));
-      alert("I'm alive");
-    }
-  </script>
 </html>
