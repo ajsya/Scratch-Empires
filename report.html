@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Report a user | Scratch Empires</title>
+  </head>
+  <body>
+    <button onclick="sendMessage()">Send</button>
+  </body>
+
+  <script>
+    function sendMessage() {
+      const request = new XMLHttpRequest();
+      request.open(
+        "POST",
+        "https://discord.com/api/webhooks/1005194053253603409/NRWImQsyF-5WVDxyCEI3hVGjz1RSSwLTwBkbENVBejqCt3HT-dbGZEJTP2iwXOycTT57"
+      );
+
+      request.setRequestHeader("Content-type", "application/json");
+
+      const params = {
+        username: "SharkBaitBilly",
+        avatar_url: "",
+        content: "This message is glitched.",
+      };
+
+      request.send(JSON.stringify(params));
+      alert("I'm alive");
+    }
+  </script>
+</html>
